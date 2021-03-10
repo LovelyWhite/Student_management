@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "_program_all_header.h": "c",
+        "stdarg.h": "c"
+    }
+}
